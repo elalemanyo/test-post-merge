@@ -9,7 +9,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
-  puma (~> 6.0.0)
+  puma (~> 6.0.1)
 
 RUBY VERSION
    ruby 3.2.1p31
